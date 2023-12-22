@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://albkino24.xyz/api/",
-    "pushUpdate" : "on",
-    "newPackage" : "com.rivotomovie.streamingtvshows",
+    "pushUpdate" : "off",
+    "newPackage" : "",
     "NetworkAds" : "applovin"
 }
